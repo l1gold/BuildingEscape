@@ -1,0 +1,6 @@
+Build/
+Binaries/
+DerivedCache/
+Intermediate/
+StarterContent/
+*.db
